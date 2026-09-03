@@ -4,8 +4,8 @@
     "IconUrl": "https://raw.githubusercontent.com/baiyi127/RamuhLoop/main/icon.png",
     "Name": "Ramuh Loop",
     "InternalName": "RamuhLoop",
-    "AssemblyVersion": "0.1.6.0",
-    "Description": "拉姆武器箱循环。0.1.6 测试更新：调整自动使用箱子的调用方式，记录返回值；保留切装有限重试和 inspect 诊断。开箱修正仍待游戏内验证。国服 API 15。",
+    "AssemblyVersion": "0.1.8.0",
+    "Description": "拉姆武器箱循环。0.1.8 测试更新：分解操作间隔可配置为 1–10 秒，默认 2 秒；勾选前和按钮就绪后分别等待。保留分解校验与诊断。国服 API 15。",
     "Punchline": "拉姆武器箱循环与额外武器分解",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -16,8 +16,8 @@
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.6/RamuhLoop-plugin.zip",
-    "DownloadLinkUpdate": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.6/RamuhLoop-plugin.zip",
-    "DownloadLinkTesting": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.6/RamuhLoop-plugin.zip"
+    "DownloadLinkInstall": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.8/RamuhLoop-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.8/RamuhLoop-plugin.zip",
+    "DownloadLinkTesting": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.8/RamuhLoop-plugin.zip"
   }
 ]

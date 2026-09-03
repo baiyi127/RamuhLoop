@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "baiyi127",
+    "Name": "Ramuh Loop",
+    "InternalName": "RamuhLoop",
+    "AssemblyVersion": "0.1.2.0",
+    "Description": "拉姆武器箱循环：切换白魔、进入副本执行宏、等待退本、切换骑士开箱并分解。支持额外分解列表。需自行配置配装、宏及 DR 自动退本。适配国服 API 15。",
+    "Punchline": "拉姆武器箱循环与额外武器分解",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/baiyi127/RamuhLoop",
+    "Tags": [
+      "ramuh",
+      "desynthesis"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.2/RamuhLoop-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.2/RamuhLoop-plugin.zip",
+    "DownloadLinkTesting": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.1.2/RamuhLoop-plugin.zip"
+  }
+]

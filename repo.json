@@ -7,11 +7,7 @@
     "Description": "白魔进本、执行宏、等待 DR 退本、骑士开箱并分解本轮装备，包含随机猫叫和彩蛋。首次使用需配置。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/baiyi127/RamuhLoop",
-    "Tags": [
-      "utility",
-      "ramuh",
-      "automation"
-    ],
+    "Tags": ["utility", "ramuh", "automation"],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,

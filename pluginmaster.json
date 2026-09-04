@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "白亦",
+    "Name": "Ramuh Loop",
+    "InternalName": "RamuhLoop",
+    "AssemblyVersion": "0.2.1.0",
+    "Description": "白魔进本、执行宏、等待 DR 退本、骑士开箱并分解本轮装备，包含随机猫叫和彩蛋。首次使用需配置。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/baiyi127/RamuhLoop",
+    "Tags": [
+      "utility",
+      "ramuh",
+      "automation"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/baiyi127/RamuhLoop/main/icon.png",
+    "Punchline": "拉姆武器箱循环与猫叫彩蛋",
+    "Changelog": "0.2.1：增加随机猫叫、猫娘本地悄悄话样式，以及循环运行时鼠标左键喵声。",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1788551021",
+    "DownloadLinkInstall": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.2.1/RamuhLoop.zip",
+    "DownloadLinkUpdate": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.2.1/RamuhLoop.zip"
+  }
+]

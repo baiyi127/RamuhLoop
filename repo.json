@@ -3,7 +3,7 @@
     "Author": "白亦",
     "Name": "Ramuh Loop",
     "InternalName": "RamuhLoop",
-    "AssemblyVersion": "0.2.3.0",
+    "AssemblyVersion": "0.2.4.0",
     "Description": "白魔进本、执行宏、等待 DR 退本、骑士开箱并分解本轮装备。首次使用需配置。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/baiyi127/RamuhLoop",
@@ -15,12 +15,12 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/baiyi127/RamuhLoop/main/icon.png",
     "Punchline": "拉姆武器箱循环",
-    "Changelog": "0.2.3：优化运行体验。",
+    "Changelog": "0.2.4：优化运行体验。",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1788551021",
-    "DownloadLinkInstall": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.2.3/RamuhLoop.zip",
-    "DownloadLinkUpdate": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.2.3/RamuhLoop.zip"
+    "DownloadLinkInstall": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.2.4/RamuhLoop.zip",
+    "DownloadLinkUpdate": "https://github.com/baiyi127/RamuhLoop/releases/download/v0.2.4/RamuhLoop.zip"
   }
 ]

@@ -1,0 +1,18 @@
+name: Repair checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  repair-checks:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Check self repair threshold and resources
+        run: dotnet run --project tests/RepairPolicyChecks/RepairPolicyChecks.csproj -c Release
+      - name: Check duty and coffer repair checkpoints
+        run: dotnet run --project tests/RepairCheckpointChecks/RepairCheckpointChecks.csproj -c Release

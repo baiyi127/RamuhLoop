@@ -1,0 +1,12 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.2.5</Version>
+    <Author>白亦</Author>
+    <Name>Ramuh Loop</Name>
+    <Punchline>拉姆武器箱循环</Punchline>
+    <Description>白魔进本、执行宏、等待 DR 退本、骑士开箱并分解本轮装备。新增副本外装备耐久低于10%时自动自行维修，需要对应生产职业等级和暗物质。首次使用需配置，维修流程待游戏内实测。</Description>
+    <RepoUrl>https://github.com/baiyi127/RamuhLoop</RepoUrl>
+    <Tags>utility;ramuh;automation</Tags>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+</Project>
